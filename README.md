@@ -8,8 +8,6 @@ Please note that the app is extracted from XCode additional tools and in order t
 
 I'll leave the download link for those who are interested to get XCode Additional Tools directly from Apple ^^: [original link](https://developer.apple.com/download/more/?=additional)
 
-Please note that I haven't found IORegistryExplorer v2.1 on Apple site and I highly recommend to avoid versions that come from unauthorized sources. 
-
 You'll find in the Release section of this repo the downloads ^ ^
 
 # Check your SHA256 HASH
