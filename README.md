@@ -17,4 +17,4 @@ You'll find in the Release section of this repo the downloads ^ ^
 |IORegistryExplorer v2.1|Not available|`e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855`\*|
 |IORegistryExplorer v3.0.2|XCode 12|`e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855`|
 
-##### \* I don't know how is this even possible but the hashes are the same ._. 
+##### \* I don't know how this is even possible but the hashes are the same ._. 
