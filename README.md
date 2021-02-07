@@ -12,11 +12,11 @@ You'll find in the Release section of this repo the downloads ^ ^
 
 # Check your SHA256 HASH 
 
-Pro tip: executable binary is under Contents/MacOS
+Pro tip: executable binary is under Contents/MacOS/IORegistryExplorer
 
 |Application|XCode version|SHASUM 256|
 |---|---|---|
-|IORegistryExplorer v2.1|Not available|`fc32b1f27b6cbe4ab58ee6a3478ea7190f1af4e07200118da8618ef9be285cd1`\*|
+|IORegistryExplorer v2.1|Not available|`e186586bb9c5f50f5255ecfcc92a624b53834a4b808050420e63fc9b279d67d6`\*|
 |IORegistryExplorer v3.0.2|XCode 12.4|`cf810fe88df75b11f7fc35ffc0fe345cd717b9d720924690986b68dcea87f581`|
 
  ~~I don't know how this is even possible but the hashes are the same ._.~~
