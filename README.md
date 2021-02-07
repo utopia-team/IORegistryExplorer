@@ -17,6 +17,6 @@ Pro tip: executable binary is under Contents/MacOS
 |Application|XCode version|SHASUM 256|
 |---|---|---|
 |IORegistryExplorer v2.1|Not available|`fc32b1f27b6cbe4ab58ee6a3478ea7190f1af4e07200118da8618ef9be285cd1`\*|
-|IORegistryExplorer v3.0.2|XCode 12|`cf810fe88df75b11f7fc35ffc0fe345cd717b9d720924690986b68dcea87f581`|
+|IORegistryExplorer v3.0.2|XCode 12.4|`cf810fe88df75b11f7fc35ffc0fe345cd717b9d720924690986b68dcea87f581`|
 
  ~~I don't know how this is even possible but the hashes are the same ._.~~
