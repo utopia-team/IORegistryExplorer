@@ -12,7 +12,7 @@ You'll find in the Release section of this repo the downloads ^ ^
 
 # Check your SHA256 HASH 
 
-Pro tip: executable binary is under Contents/MacOS/IORegistryExplorer
+Pro tip: executable binary is under `Contents/MacOS/IORegistryExplorer`
 
 |Application|XCode version|SHASUM 256|
 |---|---|---|
