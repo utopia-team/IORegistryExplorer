@@ -17,4 +17,4 @@ Pro tip: executable binary is under `Contents/MacOS/IORegistryExplorer`
 |Application|XCode version|SHASUM 256|
 |---|---|---|
 |IORegistryExplorer v2.1|Not available|`e186586bb9c5f50f5255ecfcc92a624b53834a4b808050420e63fc9b279d67d6`|
-|IORegistryExplorer v3.0.2|XCode 12.5|`01d7d3c0ab51f659a4adef39cfdd445275ad0001f89003853d36291329619b7a`|
+|IORegistryExplorer v3.0.2|XCode 12.5|`adf804eb40a704c5cb719934bc7b8d0c5cad012fb779302960d94895c803cdbb`|
